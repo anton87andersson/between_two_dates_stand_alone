@@ -13,8 +13,8 @@ from datetime import date
 	How it works:
 
 
-	Enter start-date in YY-MM-DD format: 2020-01-01
-	Enter end-date in YY-MM-DD format: 2020-02-01
+	Enter start-date in YYYY-MM-DD format: 2020-01-01
+	Enter end-date in YYYY-MM-DD format: 2020-02-01
 
 	Output:
 
