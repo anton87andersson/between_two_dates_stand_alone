@@ -8,8 +8,8 @@ from datetime import date
 
 	Done by: Anton Andersson @ 2021-03-10
 	Free to use by anyone.
-					###################
-
+	-----------------------
+	
 	How it works:
 
 
