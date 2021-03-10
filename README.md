@@ -1,5 +1,5 @@
-  # Get all the days between two dates
-Get the for ex. Mondays between two days.
+  # Get all the dates for an weekday between two dates
+Get the for ex. Mondays between two datess.
 
 Ex: 
 
