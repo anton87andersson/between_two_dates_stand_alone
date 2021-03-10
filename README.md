@@ -16,5 +16,5 @@ Ex:
 	2020-01-29
   
 ```c
-The output will be stored in the result_dates list.
+The output will be stored in the ** result_dates **  list.
 ```
